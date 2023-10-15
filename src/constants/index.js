@@ -235,7 +235,7 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Panteakheiri/3D-portfolio",
       netlify_link:"#"
     },
   ];
